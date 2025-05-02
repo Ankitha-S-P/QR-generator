@@ -1,5 +1,5 @@
-# QR-generator
-- create a file 'index.js'
+# QR code image generator
+
 - run npm install
 - run the index.js
 
